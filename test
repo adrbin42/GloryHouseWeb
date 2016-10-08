@@ -1,0 +1,36 @@
+{
+ "kind": "youtube#channelListResponse",
+ "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/4jVsB4z54tC-RKjE5jJRrn_V4VY\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+
+   "kind": "youtube#channel",
+   "etag": "\"I_8xdZu766_FSaexEaDXTIfEWc0/pfI44JT3G1iitiQvDLkxRaMdFAA\"",
+   "id": "UC_cZ-bQBj3BqspbrBecDL-g",
+   "snippet": {
+    "title": "Glory House World Church",
+    "description": "",
+    "publishedAt": "2014-06-19T21:12:36.000Z",
+    "thumbnails": {
+     "default": {
+      "url": "https://yt3.ggpht.com/-wqAKhB-KEzY/AAAAAAAAAAI/AAAAAAAAAAA/Phg9Fci6QHk/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "medium": {
+      "url": "https://yt3.ggpht.com/-wqAKhB-KEzY/AAAAAAAAAAI/AAAAAAAAAAA/Phg9Fci6QHk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     },
+     "high": {
+      "url": "https://yt3.ggpht.com/-wqAKhB-KEzY/AAAAAAAAAAI/AAAAAAAAAAA/Phg9Fci6QHk/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+     }
+    },
+    "localized": {
+     "title": "Glory House World Church",
+     "description": ""
+    }
+   }
+  }
+ ]
+}
