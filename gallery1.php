@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
       <?php include 'includes/header.php'; ?>
+
     </head>
     <body>
         <!-- Responsive Image Slider w/Thumbnails -->
@@ -13,25 +14,25 @@
             <span class="cycle-prev">&lt;</span>
             <span class="cycle-next">&gt;</span>
 
-            <img src="gallery1/IMG_0856.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0857.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0858.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0860.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0861.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0862.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1//IMG_0863.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0870.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0876.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0881.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0882.JPG" alt="Glory To Glory 2016">
-            <img src="gallery1/IMG_0884.JPG" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0856_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0857_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0858_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0860_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0861_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0862_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0863_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0870_1920jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0876_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0881_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0882_1920.jpg" alt="Glory To Glory 2016">
+            <img src="img/gallery1/IMG_0884_1920.jpg" alt="Glory To Glory 2016">
         </div>
         <div></div>
         <!-- End Responsive Image Slider -->
         <script type="text/javascript" src="js/jquery-3.0.0.min.js"></script>
         <script type="text/javascript" src="js/jquery.cycle2.min.js"></script>
-        <footer>
+
           <?php include 'includes/footer.php'; ?>
-        </footer>
+
     </body>
 </html>

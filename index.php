@@ -153,21 +153,21 @@
                     <!---works-grids--->
                     <div class="works-grids">
                         <div class="works-grid col-md-4">
-                            <a href="gallery1.php"><img src="img/img_gtg.JPG"/>
+                            <a href="gallery1.php"><img src="img/gallery1/img_gtg.JPG"/>
                             <div class="caption">
                                 <h4>Glory To Glory 2016</h4>
                                 <p>Watch highlights from our annual Glory To Glory convention.</p>
                             </div></a>
                         </div>
                         <div class="works-grid col-md-4">
-                            <a href="img/img_bd.JPG"><img src="img/img_bd.JPG">
+                            <a href="gallery2.php"><img src="img/gallery2/img_bd.JPG">
                             <div class="caption">
                                 <h4>Baby Dedication</h4>
                                 <p>Pastors Chuzzy & Sharon Udenwa dedicate one of our newest members to The Lord.</p>
                             </div></a>
                         </div>
                         <div class="works-grid col-md-4">
-                            <a href="img/img_bw.JPG"><img src="img/img_bw.JPG" />
+                            <a href="gallery3.php"><img src="img/gallery3/img_bw.JPG" />
                             <div class="caption">
                                 <h4>Best Worker Awards</h4>
                                 <p>Pastor Chuzzy Udenwa reward members for their outstanding service to The Lord.</p>
