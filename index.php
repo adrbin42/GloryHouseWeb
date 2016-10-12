@@ -180,7 +180,7 @@
                     <!--//works-grids--->
             <!----//works ---->
             <!---- contact -->
-<div class="row">
+<div class="row" id="mailinglist">
     <div class="col-md-6 grid-left">
                <!-- Begin constant contact Signup Form -->
 <!--Begin CTCT Sign-Up Form-->
@@ -246,7 +246,7 @@
                         <p>Give your Tithes & Offerings online securely through Paypal.</p>
                     </div>
     </div>
-        <div class="col-12" id="onlineGiving" style="margin:0 0 50px 0">
+        <div class="col-12" id="onlinegiving" style="margin:0 0 50px 0">
             <div class="col-6" id="givingVideo" style="width:50%;">
                 <video width="600" height="500" preload controls poster="img/tithes&offerings.jpg">
                   <source src="video/tithingvideo.mp4" type="video/mp4">
