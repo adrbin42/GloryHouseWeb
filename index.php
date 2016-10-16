@@ -45,17 +45,17 @@
                     <div class="container">
                         <div class="col-md-4 about-grid">
                             <a href="http://www.facebook.com/GloryHouseWorldChurch">
-                            <i class="fa fa-facebook fa-3x"> </i>
-                                <h3 id="livestream">Watch Us Live on Facebook!!</h3>
-                                <p>Glory House streams online every Sunday at 10am on Facebook.</p></a>
-                            <label> </label>
+                            <i class="fa fa-facebook-square fa-3x"> </i>
+                                <h3 id="livestream">Live on Facebook!!</h3>
+                                <p>Streaming every Sunday at 10am on Facebook.</p></a>
+
                         </div>
                         <div class="col-md-4 about-grid">
                             <a href="https://www.youtube.com/channel/UC_cZ-bQBj3BqspbrBecDL-g">
                             <i class="fa fa-youtube-square fa-3x"></i>
                             <h3>Glory TV</h3>
                             <p>Watch our services online anytime by going to our YouTube channel.</p></a>
-                            <label> </label>
+
                         </div>
                         <div class="col-md-4 about-grid">
                             <a href="http://mixlr.com/glory-house-world-church/">
@@ -100,6 +100,7 @@
                 <li><a href="#tab2" data-toggle="tab">Facebook</a></li>
                 <li><a href="#tab3" data-toggle="tab">Twitter</a></li>
                 <li><a href="#tab4" data-toggle="tab">Calendar</a></li>
+                <li><a href="#tab5" data-toggle="tab">Prayer Requests</a></li>
             </ul>
             <div class="tab-content">
                 <div class="tab-pane active" id="tab1">
@@ -124,10 +125,21 @@
                 <span></span>
                 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=dXZkY21oNDdtbGFsMnZpMnQ4OGhsbWEzMzBfMjAxNjA5MDRUMTQwMDAwWiBnbG9yeXRlbGV2aXNpb25AbQ&amp;tmsrc=glorytelevision%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
                 </div><!-- end tab-pane 4 -->
+                <!--
                 <div class="tab-pane" id="tab5">
-                    <h4>Send Us Your Prayer Requests</h4>
-                   <a class="twitter-timeline" data-width="100%" data-height="340" href="https://twitter.com/ghwcMedia">Tweets by Glory House</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                </div><!-- end tab-pane 5 -->
+                    <h4>Send Your Prayer Requests</h4>
+                    <!-- Do not change the code!
+                   <a id="foxyform_embed_link_821567" href="http://www.foxyform.com/">foxyform</a>
+                   <script type="text/javascript">
+                   (function(d, t){
+                      var g = d.createElement(t),
+                          s = d.getElementsByTagName(t)[0];
+                      g.src = "http://www.foxyform.com/js.php?id=821567&sec_hash=c3b5f59e908&width=600px&height-400px";
+                      s.parentNode.insertBefore(g, s);
+                   }(document, "script"));
+                   </script>
+                   <!-- Do not change the code!
+                </div>end tab-pane 5 -->
 
 
             </div><!-- end tab-content -->

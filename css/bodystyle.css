@@ -54,8 +54,10 @@ body a{
     font-weight: 900;
 }
 .top-nav ul li a:hover{
-    color:#0B1016;
+    color:#3300cc;
+    text-decoration-line: underline;
 }
+
 .logo a{
     display:block;
 }
@@ -177,7 +179,7 @@ nav a#pull {
     padding: 3.5em 0 5em;
 }
 .about-head h2{
-    color:#b21414;
+    color:#cc9900;
     font-weight:900;
     font-size:3em;
     margin:0;
@@ -205,10 +207,7 @@ nav a#pull {
 .about-grids{
     padding:2em 0 1em;
 }
-.about-grid{
-    position:relative;
-    padding:1em 0;
-}
+
 .about-grid span{
     width:33px;
     height:34px;
@@ -218,13 +217,16 @@ nav a#pull {
 .about-grid h3{
     margin:0;
     padding:0;
+
 }
+
 .about-grid h3 a{
     color: #7E8287;
     font-weight: 400;
     font-size: 1em;
     margin: 0.5em 0 0;
     display: inline-block;
+    text-decoration-color: #b21414;
 }
 .about-grid h3 a:hover{
     text-decoration:none;
@@ -264,7 +266,7 @@ nav a#pull {
 
 }
 .service-head h2{
-    color: #b21414;
+    color: #cc9900;
     font-weight: 900;
     font-size: 3em;
     margin: 0;
@@ -277,7 +279,7 @@ nav a#pull {
     background: url(../img/border-bg.png) no-repeat 0px 0px;
 }
 .service-head p {
-    color: #7E8287;
+    color: #cc9900;
     font-size: 1.2em;
     font-weight: 300;
     line-height: 1.8em;
@@ -350,7 +352,7 @@ nav a#pull {
     padding:4em 0 0 0;
 }
 .works-head h2{
-    color:#b21414;
+    color:#cc9900;
     font-weight:900;
     font-size:3em;
     margin:0;
@@ -1059,21 +1061,6 @@ ul li a i {
     padding-top: 15%;
     transition: all 0.2s ease-in-out;
 }
-
-.fa-facebook {
-    background:#3b5998
-}
-
-.fa-twitter {
-    background:#00aced
-}
-
-.fa-google-plus {
-    background:#fff;
-}
-
 ul li a i:hover {
     opacity: .7;
 }
-
-

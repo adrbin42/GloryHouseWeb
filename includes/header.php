@@ -13,6 +13,6 @@
   <link rel='stylesheet' href='css/bootstrap.css' type='text/css'>
   <link rel='stylesheet' href='css/bootstrap-glyphicons.css'>
   <link rel='stylesheet' href='css/bootstrap-lightbox.min.css'>
-  <link href='//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet'>
+  <link rel='stylesheet' href='font-awesome-4.6.3/css/font-awesome.css'>
   <script src='https://apis.google.com/js/platform.js'></script>";
 ?>
