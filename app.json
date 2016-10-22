@@ -1,0 +1,21 @@
+{
+  "name": "GloryHouseWeb",
+  "description": "Glory House Website",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
