@@ -13,18 +13,18 @@
             <span class="cycle-pager"></span>
             <span class="cycle-prev">&lt;</span>
             <span class="cycle-next">&gt;</span>
-            <img src="img/gallery3/img_bw.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1514.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1515.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1516.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1517.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1518.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1519.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1520.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1521.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1522.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1523.JPG" alt="Glory To Glory 2016">
-            <img src="img/gallery3/IMG_1524.JPG" alt="Glory To Glory 2016">
+            <img src="img/gallery3/img_bw.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1514.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1515.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1516.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1517.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1518.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1519.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1520.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1521.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1522.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1523.JPG" alt="Best Worker Awards">
+            <img src="img/gallery3/IMG_1524.JPG" alt="Best Worker Awards">
         </div>
         <div></div>
         <!-- End Responsive Image Slider -->
