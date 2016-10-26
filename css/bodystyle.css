@@ -1,8 +1,6 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Author: Adrienne Bing
+Author URL: http://www.lionsshareweb.com
 --*/
 html, body{
       font-family: 'Lato', sans-serif;
@@ -286,7 +284,7 @@ nav a#pull {
 }
 
 .grid-left-bottom{
-    background:url(../img/IMG_3496.JPG) no-repeat 0px 0px;
+    background:url(../img/GloryHouse10.9) no-repeat 0px 0px;
     background-size:contain;
     height: 650px;
 }
@@ -338,7 +336,7 @@ nav a#pull {
     background-position: -124px 0px;
 }
  .grid-right-graphic {
-    background:url(../img/NIKKILIVEINUSAATL.jpg) no-repeat 0px 0px;
+    background:url(../img/IMG_3496.JPG) no-repeat 0px 0px;
     background-size:cover;
     height: 725px;
 }
