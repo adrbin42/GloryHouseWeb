@@ -101,6 +101,7 @@
                 <li><a href="#tab3" data-toggle="tab">Twitter</a></li>
                 <li><a href="#tab4" data-toggle="tab">Calendar</a></li>
                 <li><a href="#tab5" data-toggle="tab">Prayer Requests</a></li>
+                <!--<li><a href="#tab6" data-toggle="tab">Free Downloads</a></li>-->
             </ul>
             <div class="tab-content">
                 <div class="tab-pane active" id="tab1">
@@ -127,10 +128,13 @@
                 </div><!-- end tab-pane 4 -->
 
                 <div class="tab-pane" id="tab5">
-<!-- www.123contactform.com script begins here -->
-<script type="text/javascript" defer src="//www.123contactform.com/embed/2258420.js" data-role="form"></script>
-<p>Powered by <a class="footerLink13" title="123ContactForm" href="http://www.123contactform.com">123ContactForm</a> | <a style="font-size:small!important;color:#000000!important; text-decoration:underline!important;" title="Looks like phishing? Report it!" href="http://www.123contactform.com/sfnew.php?s=123contactform-52&control119314=http:///contact-form--2258420.html&control190=Report%20abuse" rel="nofollow">Report abuse</a></p><!-- www.123contactform.com script ends here -->
+                  <!-- Audio downloads -->
+
                 </div><!--end tab-pane 5 -->
+                <div class="tab-pane" id="tab6">
+
+
+                </div><!--end tab-pane 6 -->
 
 
                 </div><!-- end tab-content -->
